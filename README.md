@@ -2,8 +2,7 @@
 
 <br />
 
-I'm  a self-taught programmer and basically do programming for fun.
-
+I'm  a self-taught programmer and basically doing programming for fun.
 <br />
 
 **About me**
