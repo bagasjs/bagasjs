@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bagas Jonathan Sitanggang</h1>
+<h3 align="center">Hello, I'm Bagas</h3>
 
 <br />
 
