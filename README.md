@@ -7,7 +7,7 @@ I'm  a self-taught programmer and basically doing programming for fun.
 
 **About me**
 
-- 📈 I'm working on my own programming language with it's virtual machine
+- 📈 I'm working on nothing
 
 - ❤️ I love working with C, a bit of C++, python, and PHP
 
