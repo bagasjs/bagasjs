@@ -9,7 +9,7 @@ I'm  a self-taught programmer and basically doing programming for fun.
 
 - 📈 I'm working on nothing
 
-- ❤️ I love working with C, a bit of C++, python, and PHP
+- ❤️ I love working with C, a bit of C++, python, GO, and PHP
 
 - 💬 You can ask me about anything [here](https://github.com/bagasjs/bagasjs)
 
